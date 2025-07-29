@@ -1,13 +1,13 @@
-#Aim:
+# Aim:
 To study and implement C++ decision making statements
 
-#Software Required:
+# Software Required:
 Visual Studio
 
-#Theory:
+# Theory:
 Decision-making is the process to make a decision about which part of the code should be executed or not based on some condition. Decision-making in C++ involves the usage of conditional statements (also called decision control statements) to execute specific blocks of code primarily based on given situations and their results.
 
-#if Statement:
+# if Statement:
 In C++, the if statement is the simplest decision-making statement. It allows the execution of a block of code if the given condition is true. The body of the if statement is executed only if the given condition is true.
 
 if-else Statement The if else is a decision-making statement allows us to make a decision based on the evaluation of a given condition. If the given condition evaluates to true then the code inside the 'if' block is executed and in case the condition is false, the code inside the 'else' block is executed.
@@ -31,8 +31,8 @@ Making a Calculator using Switch Case
 
 Made a basic Hostel fee structure using Switch Case
 
-#Algorihtms:
-#Program 1:
+# Algorihtms:
+# Program 1:
 Objective: To determine whether a user-entered number is even or odd.
 
 Steps:
@@ -55,7 +55,7 @@ Display "This is an Odd number"
 
 End
 
-#Program 2:
+# Program 2:
 Objective: To determine whether the character entered by the user is a vowel or a consonant.
 
 Steps:
@@ -80,7 +80,7 @@ Display "The Character entered is a Consonant"
 
 End
 
-#Program 3
+# Program 3
 Objective:
 
 To determine and display the largest number among three user-entered integers.
@@ -107,7 +107,7 @@ Display the largest number (num)
 
 End
 
-#Program 4:
+# Program 4:
 Objective: To perform one of four basic arithmetic operations—Addition, Subtraction, Multiplication, or Division—based on user input.
 
 Steps:
@@ -148,7 +148,7 @@ Display the result of the selected operation
 
 End
 
-#Program 5:
+# Program 5:
 Objective : to display hostel fees based on user choice
 
 START Begin the execution of the program.
@@ -207,7 +207,7 @@ NO DEFAULT CASE INCLUDED Since all valid choices from 1–5 are covered, there i
 You may optionally add error handling to notify users if the input is invalid.
 
 END Terminate the program after executing the selected case.
-#Program 6:
+# Program 6:
 Objective : to display days of the week using switch case
 
 START Begin the execution of the program.
